@@ -10,8 +10,8 @@ To Run the program use the below commands
 $Env:SRC_BASE_DIR = "data/retail_db"
 $Env:DB_HOST = "localhost"
 $Env:DB_PORT = "5432"
-$Env:DB_NAME = "itversity_retail_db"
-$Env:DB_USER = "itversity_retail_user"
-$Env:DB_PASS = "Jeson123"
+$Env:DB_NAME = "my_db_name"
+$Env:DB_USER = "my_db_user"
+$Env:DB_PASS = "Password123"
 
 After running the above commands run python app.py
